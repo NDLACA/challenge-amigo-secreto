@@ -10,8 +10,10 @@ Para realizar el sorteo efectivo del amigo secreto que te corresponde, debes seg
 4. Te aparecera en color verde, el nombre del amigo secreto que te corresponde y este, desaparecerá de la lista.
 5. Deberás realizar el mismo procedimiento para todos los amigos hasta haber sorteado todos los concursantes.
 6. Si deseas jugar nuevamente, una vez sorteada toda la lista, se reiniciará el juego.
-----
+
 ## ¿Qué se realizo detrás - js?
+
+* Se generaron dos **_array_**: El primero para almacenar los nombres de los participantes que se van a ir agregando a la lista y el segundo para que se almacenen los nombres de las personas que ya van saliendo en el sorteo.
 
 
 
