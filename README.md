@@ -1,4 +1,4 @@
-# ![Encabezado]([https://www.protocoloimep.com/app/uploads/2021/12/diversity-hands-holding-gifts-2021-08-27-00-02-31-utc-Personalizado.jpg](https://images.squarespace-cdn.com/content/v1/5d38af596682e900018c1995/1a1ddb0b-e6fa-4e08-a995-42a2481394c0/IMG-BLOG-banner-interior-ti%CC%81tulo.jpg))
+# ![Encabezado](https://images.squarespace-cdn.com/content/v1/5d38af596682e900018c1995/1a1ddb0b-e6fa-4e08-a995-42a2481394c0/IMG-BLOG-banner-interior-ti%CC%81tulo.jpg)
 
 # JUEGO PARA SORTEAR TU AMIGO SECRETO
 
