@@ -34,11 +34,10 @@ Para realizar el sorteo efectivo del amigo secreto que te corresponde, debes seg
 * Por último, se declara la quinta función, **reiniciar juego**, para que la herrramienta, una vez finalizado el proceso de sorteo, vuelva a sus valores iniciales y permita agregar una nueva lista.
 
 ## Documentación
-Este proyecto se llevo a cabo con la documentación compartida en el curso "Practicando Lógica de Programación: Challenge Amigo Secreto. 
+Este proyecto se llevo a cabo con la documentación compartida en el curso "Practicando Lógica de Programación: Challenge Amigo Secreto."
 
 ## Insumos
 La realización de este proyecto, la ejecute gracias a los conocimientos adquiridos en los cursos previos de programación de ONE - Alura Latam, replicando lógica y agregando más insumos para una herramienta funcional e interactiva. 
-
 
 ## Autores ✏️
 Nataly Cubillos Arias - Alumna ONE 
