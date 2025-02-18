@@ -31,8 +31,13 @@ Para realizar el sorteo efectivo del amigo secreto que te corresponde, debes seg
   - De nuevo, trayecto del HTML con **_document.querySelector_** se muestre en pantalla el nombre que se sorteo de la lista de amigos.
   - Y una vez finalizado el sorteo de todos los participantes, se muestra una alerta con la finalización y se *reinicia el juego*
  
-* Por último, se declara la quinta función, **reiniciar juego**, para que la herrramienta, una vez finalizado el proceso de sorteo, vuelva a sus valores iniciales y permita agregar una nueva lista. 
+* Por último, se declara la quinta función, **reiniciar juego**, para que la herrramienta, una vez finalizado el proceso de sorteo, vuelva a sus valores iniciales y permita agregar una nueva lista.
 
+## Documentación
+Este proyecto se llevo a cabo con la documentación compartida en el curso "Practicando Lógica de Programación: Challenge Amigo Secreto. 
+
+## Insumos
+La realización de este proyecto, la ejecute gracias a los conocimientos adquiridos en los cursos previos de programación de ONE - Alura Latam, replicando lógica y agregando más insumos para una herramienta funcional e interactiva. 
 
 
 ## Autores ✏️
