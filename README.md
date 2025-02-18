@@ -1,6 +1,6 @@
 # JUEGO PARA SORTEAR TU AMIGO SECRETO
------
-Con esta herramienta, vas a poder sortear de forma sencilla la lista de tus amigos, aquellos quienes van a participar en intercambio de regalos para fechas especiales como Navidad o Amor y Amistad.
+
+_Con esta herramienta, vas a poder sortear de forma sencilla la lista de tus amigos, aquellos quienes van a participar en intercambio de regalos para fechas especiales como Navidad o Amor y Amistad._
 
 ## ¿Cómo funciona? 	📋
 Para realizar el sorteo efectivo del amigo secreto que te corresponde, debes seguir estos pasos:
