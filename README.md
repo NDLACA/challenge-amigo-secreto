@@ -30,9 +30,8 @@ Para realizar el sorteo efectivo del amigo secreto que te corresponde, debes seg
     ese concursante no vuelva a salir entre el sorteo.
   - De nuevo, trayecto del HTML con **_document.querySelector_** se muestre en pantalla el nombre que se sorteo de la lista de amigos.
   - Y una vez finalizado el sorteo de todos los participantes, se muestra una alerta con la finalización y se *reinicia el juego*
-  - 
-
-  - 
+ 
+* Por último, se declara la quinta función. **reiniciar juego**, para que la herrramienta, una vez finalizado el proceso de sorteo, vuelva a sus valores iniciales y permita agregar una nueva lista. 
 
 
 
