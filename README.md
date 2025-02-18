@@ -14,6 +14,7 @@ Para realizar el sorteo efectivo del amigo secreto que te corresponde, debes seg
 ## ¿Qué se realizo detrás - js? 📌
 
 * Se generaron dos **_array_**: El primero para almacenar los nombres de los participantes que se van a ir agregando a la lista y el segundo para que se almacenen los nombres de las personas que ya van saliendo en el sorteo y de esta manera, **no se repitan.**
+  -
 * Se llamo la primera función, **agregar amigo**, con el fin de habilitar el input del HTML para que el usuario pueda agregar los nombres de las personas que van a participar en el juego,
   añadiendo un push para que a medida que se agregue un nombre, este se sume a la lista del primer _array_ y una alerta para que no sea posible añadir un campo en blanco.
 * Para la segunda función, **actualizar lista**, se llama la lista creada en el HTML para que cuando el usuario agregue un nombre, este apareza visible en la página, justo cuando se da clic en el botón "añadir".
