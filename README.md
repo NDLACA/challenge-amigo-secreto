@@ -35,5 +35,5 @@ Para realizar el sorteo efectivo del amigo secreto que te corresponde, debes seg
 
 
 
-## Autores
+## Autores ✏️
 Nataly Cubillos Arias - Alumna ONE 
