@@ -11,9 +11,10 @@ Para realizar el sorteo efectivo del amigo secreto que te corresponde, debes seg
 5. Deberás realizar el mismo procedimiento para todos los amigos hasta haber sorteado todos los concursantes.
 6. Si deseas jugar nuevamente, una vez sorteada toda la lista, se reiniciará el juego.
 
-## ¿Qué se realizo detrás - js?
+## ¿Qué se realizo detrás - js? 📌
 
-* Se generaron dos **_array_**: El primero para almacenar los nombres de los participantes que se van a ir agregando a la lista y el segundo para que se almacenen los nombres de las personas que ya van saliendo en el sorteo.
+* Se generaron dos **_array_**: El primero para almacenar los nombres de los participantes que se van a ir agregando a la lista y el segundo para que se almacenen los nombres de las personas que ya van saliendo en el sorteo y de esta manera, **no se repitan.**
+* Se llamo la primera función (agregar amigo), con el fin de habilitar el input del HTML para que el usuario pueda agregar los nombres de las personas que van a participar en el juego. 
 
 
 
