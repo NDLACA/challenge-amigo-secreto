@@ -1,4 +1,4 @@
-# !(https://www.protocoloimep.com/app/uploads/2021/12/diversity-hands-holding-gifts-2021-08-27-00-02-31-utc-Personalizado.jpg)
+# ![Encabezado](https://www.protocoloimep.com/app/uploads/2021/12/diversity-hands-holding-gifts-2021-08-27-00-02-31-utc-Personalizado.jpg)
 
 # JUEGO PARA SORTEAR TU AMIGO SECRETO
 
