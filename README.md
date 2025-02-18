@@ -14,11 +14,25 @@ Para realizar el sorteo efectivo del amigo secreto que te corresponde, debes seg
 ## ¿Qué se realizo detrás - js? 📌
 
 * Se generaron dos **_array_**: El primero para almacenar los nombres de los participantes que se van a ir agregando a la lista y el segundo para que se almacenen los nombres de las personas que ya van saliendo en el sorteo y de esta manera, **no se repitan.**
-  -
+  
 * Se llamo la primera función, **agregar amigo**, con el fin de habilitar el input del HTML para que el usuario pueda agregar los nombres de las personas que van a participar en el juego,
   añadiendo un push para que a medida que se agregue un nombre, este se sume a la lista del primer _array_ y una alerta para que no sea posible añadir un campo en blanco.
+
 * Para la segunda función, **actualizar lista**, se llama la lista creada en el HTML para que cuando el usuario agregue un nombre, este apareza visible en la página, justo cuando se da clic en el botón "añadir".
-* En la tercera función, **limpar caja**, se buscó que la barra de texto en el HTML (_escribe un nombre_), se limpiara automanticamente cuando se agregaba un nombre y diera paso para añadir el siguiente concursante. 
+  
+* En la tercera función, **limpar caja**, se buscó que la barra de texto en el HTML (_escribe un nombre_), se limpiara automanticamente cuando se agregaba un nombre y diera paso para añadir el siguiente concursante.
+
+* La cuarta función, el curpo del juego, **sortear amigo**, se creó con:
+  - Una alerta para informar que no se puede hacer un sorteo sin ningún participante o con menos de dos.
+  - Activando el inicio del juego, para que así, se pueda hacer un proceso completo de sorteo.
+  - Para que el sistema pueda seleccionar el nombre entre la lista de amigos, se declaro la variable de _indice aleatorio_, para que se genere aleatoriamente un número entero entre la medida de la lista.
+  - Con el indice, se busque en el _array_ la posición y seleccione el nombre en ese puesto y se extrae con la variable **amigo sorteado.** El cual con **_push_** se añade a la lista de amigos sorteados para que 
+    ese concursante no vuelva a salir entre el sorteo.
+  - De nuevo, trayecto del HTML con **_document.querySelector_** se muestre en pantalla el nombre que se sorteo de la lista de amigos.
+  - Y una vez finalizado el sorteo de todos los participantes, se muestra una alerta con la finalización y se *reinicia el juego*
+  - 
+
+  - 
 
 
 
